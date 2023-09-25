@@ -5,3 +5,4 @@ Both word2vec and context2vec have the same loss function.
 The below picture shows the word embeddings in 2D space after computing the PCA of 50-dimensional vectors. The vectors were trained from 50 Gutenberg library books but the vocabulary was reduced to 5k only. 
 ![man in vector space with](man.png)
 ![near words to man](mannear.png)
+The nearest words were calculated using the cosine distance. 
