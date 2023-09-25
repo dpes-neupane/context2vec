@@ -1,3 +1,4 @@
-./datag
-./datagraw
-./logs
+./datag/*
+./datagraw/*
+./logs/*
+./__pycache__/*
